@@ -39,7 +39,13 @@
 				"github.vscode-github-actions",
 				"mhutchie.git-graph",
 				"streetsidesoftware.code-spell-checker",
-				"njqdev.vscode-python-typehint"
+				"njqdev.vscode-python-typehint",
+				"tamasfe.even-better-toml",
+				"donjayamanne.githistory",
+				"codezombiech.gitignore",
+				"VisualStudioExptTeam.vscodeintellicode",
+				"VisualStudioExptTeam.intellicode-api-usage-examples",
+				"yzhang.markdown-all-in-one"
 			]
 		}
 	},

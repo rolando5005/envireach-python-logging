@@ -1,6 +1,6 @@
 import os
 
-from src.logging import Logger
+from src.envireach_logging import Logger
 
 def test_logger():
     logger = Logger()

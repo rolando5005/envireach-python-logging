@@ -3,7 +3,7 @@ name: Pytest
 on: [push]
 
 jobs:
-  custom-logging:
+  envireach-logging-tests:
     env:
       working_directory: ./src
     runs-on: ubuntu-latest
